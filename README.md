@@ -1,6 +1,6 @@
-# Omnis Vue
+# Omnis Vite Control
 
-A demonstration of how to integrate a Vue application into Omnis Studio with a consistent interface
+A demonstration of how to integrate an HTML control into Omnis Studio with a consistent interface
 
 ## Installation
 
@@ -63,7 +63,7 @@ All output is placed into the `dist` folder:
 
 ### Omnis Interaction
 
-All interaction with Omnis is contained in the `index.html` entry point and the `stores/omnis.ts` store.
+All interaction with Omnis is contained in the `index.html` entry point and the `omnis.ts` hooks.
 
 ### CORS Issues
 
