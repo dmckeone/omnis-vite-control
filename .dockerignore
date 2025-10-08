@@ -1,0 +1,12 @@
+# Build Products
+bin
+build
+dist
+*.local
+
+# Omnis
+omnis-vite-control-demo
+*.lbs
+
+# Node Dependences
+node_modules
