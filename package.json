@@ -1,6 +1,6 @@
 {
   "name": "omnis-vite-control",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "build": "pnpm run type-check && vite build && mkdir dist/omnis-vite-control && mv dist/omnis-vite-control.html dist/omnis-vite-control/omnis-vite-control.htm",
